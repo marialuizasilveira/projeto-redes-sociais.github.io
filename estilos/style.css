@@ -37,10 +37,10 @@ main{
 
 #tela{
     position: relative;
-    top: 81px;
-    left: 23px;
-    width: 266px;
-    height: 469px;
+    top: 80px;
+    left: 21.9px;
+    width: 267.9px;
+    height: 470px;
 }
 
 #redes-sociais{
@@ -58,4 +58,5 @@ main{
 #redes-sociais img:hover{
     transform: translate(-3px, -3px);
     transition: transform 0.5s;
+    box-shadow: 1px 3px 1px black;
 }
