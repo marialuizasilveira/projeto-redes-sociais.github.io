@@ -21,8 +21,8 @@ body{
 
 main{
     position: relative;
-    height: 100vh;
-    width: 100vw;
+    height: 700px;
+    width: 750px;
 }
 
 #telefone{
@@ -48,7 +48,7 @@ main{
 }
 
 #redes-sociais img{
-    width: 6vw;
+    width: 7vw;
     margin: 10px;
     border-radius: 50%;
     box-shadow: 2px 2px 5px black;
