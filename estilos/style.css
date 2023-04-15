@@ -27,8 +27,8 @@ main{
 
 #telefone{
     background-image: url(../imagens/frame-iphone.png);
-    width: 40vw;
-    height: 90vh;
+    width: 310px;
+    height: 629px;
     position: absolute;
     left: 50%;
     top: 50%;
@@ -39,8 +39,8 @@ main{
     position: relative;
     top: 80px;
     left: 21.9px;
-    width: 35vw;
-    height: 67.5vh;
+    width: 271px;
+    height: 479px;
 }
 
 #redes-sociais{
